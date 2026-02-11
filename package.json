@@ -1,16 +1,4 @@
 {
-  "name": "frontened",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-,
   "dependencies": {
     "axios": "^1.13.2",
     "react": "^19.2.0",
@@ -30,9 +18,21 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+    "gh-pages": "^5.0.0",
     "globals": "^16.5.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19",
     "vite": "^7.2.4"
-  }
+  },
+  "name": "frontened",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "deploy": "gh-pages -d dist",
+    "dev": "vite",
+    "predeploy": "npm run build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "version": "0.0.0"
 }
