@@ -72,7 +72,6 @@
                     "link": "team",
                     "title": "TEAM"
                 }
-                
             ],
             "ourQualities": [
                 {
@@ -98,26 +97,26 @@
                 {
                     "designation": "Founder & Head Chef",
                     "id": 1,
-                    "image": "./team_member_1.png",
-                    "name": "JOHNATHAN TYLER"
+                    "image": "./t1.jpeg",
+                    "name": "Divyaraj singh Thakur"
                 },
                 {
                     "designation": "Sous Chef",
                     "id": 2,
-                    "image": "./team_member_2.png",
-                    "name": "WADE WARREN"
+                    "image": "./t2.jpeg",
+                    "name": "Dhruv Parihar"
                 },
                 {
                     "designation": "Fast Food Chef",
                     "id": 3,
-                    "image": "./team_member_3.png",
-                    "name": "JHON DOE"
+                    "image": "./t3.jpeg",
+                    "name": "Manish Pandey"
                 },
                 {
                     "designation": "Senior Chef",
                     "id": 4,
-                    "image": "./team_member_4.png",
-                    "name": "ALEX COAL"
+                    "image": "./t4.jpeg",
+                    "name": "Abduu Thakur"
                 }
             ],
             "testimonials": [

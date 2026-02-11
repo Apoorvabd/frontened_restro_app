@@ -12,11 +12,14 @@ const Team = () => {
             perferendis laborum.
           </p>
         </div>
-        <div className="team_container">
+        <div className="team_container rounded-2xl">
           {data[0].team.map((element) => {
             return (
-              <div className="card" key={element.id}>
-                <img src={element.image} alt={element.name} />
+              <div className="card  " key={element.id}>
+               <div className=" rounded-[30px] p-1 justify-center h-[270px] w-48 mt-2 flex">
+  <img src={element.image} alt={element.name} className="h-5 " />
+</div>
+
                 <h3>{element.name}</h3>
                 <p>{element.designation}</p>
               </div>
