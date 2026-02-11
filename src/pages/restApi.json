@@ -1,0 +1,170 @@
+{
+    "data": [
+        {
+            "dishes": [
+                {
+                    "category": "Dinner",
+                    "id": 1,
+                    "image": "./dinner1.jpeg",
+                    "title": "ROASTED LAMB RUMP"
+                },
+                {
+                    "category": "Dinner",
+                    "id": 2,
+                    "image": "./dinner2.png",
+                    "title": "CITRUS CURED SALMON"
+                },
+                {
+                    "category": "Breakfast",
+                    "id": 3,
+                    "image": "./breakfast1.png",
+                    "title": "PAN SEARED SEA BASS"
+                },
+                {
+                    "category": "Dinner",
+                    "id": 4,
+                    "image": "./dinner3.png",
+                    "title": "STUFFED STRAWBERRY"
+                },
+                {
+                    "category": "Lunch",
+                    "id": 5,
+                    "image": "./lunch1.png",
+                    "title": "BEEF BURGER MEAL"
+                },
+                {
+                    "category": "Dinner",
+                    "id": 6,
+                    "image": "./dinner4.png",
+                    "title": "MUSSELS SOUP"
+                },
+                {
+                    "category": "Dinner",
+                    "id": 7,
+                    "image": "./dinner5.png",
+                    "title": "ITALIAN SPAGHETTI"
+                },
+                {
+                    "category": "Dinner",
+                    "id": 8,
+                    "image": "./dinner6.png",
+                    "title": "GRILLED FISH"
+                }
+            ],
+            "navbarLinks": [
+                {
+                    "id": 1,
+                    "link": "heroSection",
+                    "title": "HOME"
+                },
+                {
+                    "id": 2,
+                    "link": "about",
+                    "title": "ABOUT US"
+                },
+                {
+                    "id": 3,
+                    "link": "qualities",
+                    "title": "SERVICES"
+                },
+                {
+                    "id": 4,
+                    "link": "team",
+                    "title": "TEAM"
+                }
+                
+            ],
+            "ourQualities": [
+                {
+                    "description": "We are committed to serving only the finest ingredients, sourced fresh daily from trusted suppliers to ensure every dish meets our highest quality standards.",
+                    "id": 1,
+                    "image": "./quality_food.svg",
+                    "title": "QUALITY FOOD"
+                },
+                {
+                    "description": "Our expert chefs craft each dish with passion and precision, creating exceptional flavors that delight your palate and leave a lasting impression.",
+                    "id": 2,
+                    "image": "./super_taste.svg",
+                    "title": "SUPER TASTE"
+                },
+                {
+                    "description": "Experience speedy service without compromising quality. We deliver hot and fresh meals to your doorstep quickly, ensuring you enjoy restaurant-quality food at home.",
+                    "id": 3,
+                    "image": "./fast_delivery.svg",
+                    "title": "FAST DELIVERY"
+                }
+            ],
+            "team": [
+                {
+                    "designation": "Founder & Head Chef",
+                    "id": 1,
+                    "image": "./team_member_1.png",
+                    "name": "JOHNATHAN TYLER"
+                },
+                {
+                    "designation": "Sous Chef",
+                    "id": 2,
+                    "image": "./team_member_2.png",
+                    "name": "WADE WARREN"
+                },
+                {
+                    "designation": "Fast Food Chef",
+                    "id": 3,
+                    "image": "./team_member_3.png",
+                    "name": "JHON DOE"
+                },
+                {
+                    "designation": "Senior Chef",
+                    "id": 4,
+                    "image": "./team_member_4.png",
+                    "name": "ALEX COAL"
+                }
+            ],
+            "testimonials": [
+                {
+                    "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                    "id": 1,
+                    "image": "./review1.png",
+                    "rating": 4,
+                    "userName": "Jane Cooper"
+                },
+                {
+                    "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                    "id": 2,
+                    "image": "./review2.png",
+                    "rating": 4.5,
+                    "userName": "Esther Howard"
+                },
+                {
+                    "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                    "id": 3,
+                    "image": "./review3.png",
+                    "rating": 5,
+                    "userName": "Guy Hawkins"
+                }
+            ],
+            "who_we_are": [
+                {
+                    "id": 1,
+                    "number": "14",
+                    "title": "Restaurants"
+                },
+                {
+                    "id": 2,
+                    "number": "20",
+                    "title": "Chef In Kitchen"
+                },
+                {
+                    "id": 3,
+                    "number": "08",
+                    "title": "Years Of Experience"
+                },
+                {
+                    "id": 4,
+                    "number": "200",
+                    "title": "Food Dishes"
+                }
+            ]
+        }
+    ]
+}
