@@ -9,6 +9,7 @@
 > A modern, responsive React frontend for a Restaurant App that allows users to browse menus, make reservations, and manage orders seamlessly.
 
 ---
+-Live link https://thakur-restro.netlify.app/
 
 ## 🎯 Features
 
